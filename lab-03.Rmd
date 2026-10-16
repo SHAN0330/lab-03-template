@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 – Critical-Responsible Use of GenAI for Data Science"
-author: "Team Name: User1, User2, William, Smile, JUNHAO SHAN, dara, Brinlynee"
+author: "Team Name: SHUCHEN ZHANG, William, Smile, JUNHAO SHAN, dara, Brinlynee"
 date: "`r Sys.Date()`"
 output: html_document
 ---
